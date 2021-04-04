@@ -1,0 +1,43 @@
+/* start main Rules */
+body {
+    background-color:#F4F4F; 
+}
+/* End main Rules */
+/*start registeration form*/
+.registeration {
+  width: 200px;
+  margin: 50px auto;  
+}
+.registeration h4 { 
+    color: #888;  
+}
+.registeration input {
+      margin-bottom:10px; 
+}
+.registeration .form-control {
+    
+    background-color:#EAEAEA;
+}
+.registeration .btn{
+    margin: auto;
+    background-color :dodgerblue ;
+    
+}
+
+/*End registeration form*/
+
+/*Start table*/
+ .head { 
+     color: #888;
+     text-align: center;   
+}
+.table{
+       border: 1px solid;
+       width: 200px;
+       margin: 50px auto; 
+}
+.cell{
+    
+       border: 1px solid #000;     
+}
+/*End table*/
